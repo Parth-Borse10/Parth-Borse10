@@ -23,5 +23,5 @@ Some of my work includes data dashboards, predictive ML projects, SQL-based appl
 
 ### Connect with me
 
-LinkedIn: linkedin.com/in/parth-borse  
+LinkedIn: https://www.linkedin.com/in/parth-borse/  
 Email: parthborse010@gmail.com
